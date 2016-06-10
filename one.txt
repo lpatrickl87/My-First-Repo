@@ -6,3 +6,6 @@ User A: Hey A what are you upto. Would you like to make some changes to this fil
 User B: I am making some change too at my end and let's see how 
 User B: we are going to resolve this conflict.
 #########################  Make changes below. Do not remove the header #######################
+
+This is what I am writing.
+By waikeung
